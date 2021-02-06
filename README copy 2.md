@@ -1,0 +1,14 @@
+# Working Directory
+  --> Todos os nossos arquivos
+  --> Working tree
+  --> aqui ja se foi inicializado (git init) e adicionados (git add) os files
+
+# Stage Area
+  --> Preparação dos nosos arquivos para serem comitados (git commit -am "...")
+  --> Index
+  --> Stage tree
+
+# Repository (local)
+  --> Banco de dados dos nossos arquivos
+  --> Onde ficarão os ponto da história
+  --> Ou os histórico
