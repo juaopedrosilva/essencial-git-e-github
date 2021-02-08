@@ -11,4 +11,4 @@
 # Repository (local)
   --> Banco de dados dos nossos arquivos
   --> Onde ficarão os ponto da história
-  --> Ou os histórico
+  --> Ou os históricos
